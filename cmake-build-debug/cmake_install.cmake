@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Conor/IdeaProjects/SortingAlgorithmVisualizer
+# Install script for directory: B:/Conor/OneDrive - University of Exeter/Work/CProjects/SortingAlgorithmVisualizer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Conor/IdeaProjects/SortingAlgorithmVisualizer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "B:/Conor/OneDrive - University of Exeter/Work/CProjects/SortingAlgorithmVisualizer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

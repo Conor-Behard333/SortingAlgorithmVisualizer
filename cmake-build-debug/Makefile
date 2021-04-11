@@ -66,10 +66,10 @@ RM = C:\Users\Conor\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer
+CMAKE_SOURCE_DIR = "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer\cmake-build-debug
+CMAKE_BINARY_DIR = "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -98,9 +98,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer\cmake-build-debug\CMakeFiles C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer\cmake-build-debug\CMakeFiles" "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer\cmake-build-debug\\CMakeFiles\progress.marks"
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

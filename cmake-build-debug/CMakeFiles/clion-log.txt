@@ -1,4 +1,4 @@
-C:\Users\Conor\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Conor\IdeaProjects\SortingAlgorithmVisualizer
+C:\Users\Conor\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "B:\Conor\OneDrive - University of Exeter\Work\CProjects\SortingAlgorithmVisualizer"
 -- The C compiler identification is GNU 7.3.0
 -- The CXX compiler identification is GNU 7.3.0
 -- Detecting C compiler ABI info
@@ -14,4 +14,4 @@ C:\Users\Conor\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\
 -- Found SFML 2.5.1 in C:/SFML-2.5.1/lib/cmake/SFML
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Conor/IdeaProjects/SortingAlgorithmVisualizer/cmake-build-debug
+-- Build files have been written to: B:/Conor/OneDrive - University of Exeter/Work/CProjects/SortingAlgorithmVisualizer/cmake-build-debug
